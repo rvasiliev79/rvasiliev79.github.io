@@ -26,62 +26,128 @@
 
   <body>
     <div class="container">
-      <div class="col s12 m7">
-        <h3 class="header">Васильев Роман Петрович</h3>
-        <div class="card horizontal">
-          <div class="card-image">
-            <img src="images/portrait.png" />
-          </div>
-          <div class="card-stacked">
-            <div class="card-content">
-              <p>Senior IT PM/PO</p>
-              <p>Solution architect</p>
-              <p>Software dev manager</p>
-              <p>Web Frontend dev ;)</p>
+
+      <!-- Header section with card -->
+      <div class="row">
+        <div class="col s12 m8">
+        <h3 class="header center">Роман Васильев</h3>
+          <div class="card-panel grey lighten-5 z-depth-1">
+            <div class="row valign-wrapper">
+             <div class="col s5 m3">
+              <img
+                src="images/portrait.png"
+                alt="avatar"
+                class="circle responsive-img"
+                />
+              </div>
+              <div class="col s7 m5">
+                <span class="black-text">
+                  <p>Senior IT PM/PO</p>
+                  <p>Solution architect</p>
+                  <p>Software dev manager</p>
+                  <p>Web Frontend dev ;)</p>
+                </span>
+              </div>
             </div>
           </div>
+          <blockquote class="blockquote">
+            Опытный руководитель в ИТ с опытом более 20 лет. Прошел путь от рядового программиста и сис.админа до ИТ директора. Сейчас интересна разработка web и мобильных приложений. Реальный опыт управления распределенными командами 10+ разработчиков, лидерские качетсва, широкий кругозор в ИТ, хорошая обучаемость, разговорный английский язык, свои небольшие проекты на Github - Materialize, React Native + Expo.
+          </blockquote>
         </div>
       </div>
-    </div>
 
-    <div class="carousel center">
+      <!-- Skills carousel section -->
+      <div class="carousel center">
       <a class="carousel-item" href="#one!">
-        <h4 class="teal-text">Soft-skills</h4>
-        <p class="teal white-text">
+        <h4 class="teal-text darken-4">Soft-skills</h4>
+        <p class="teal darken-4 white-text">
           Project management, Agile, Scrum, Kanban, Team management, Roadmaps,
-          Sprint planning, UX/UI prototypes, Groomings, Demos, Retros,
+          Sprint planning, UX/UI prototypes, Groomings, Demos, Retros, One-to-ones
         </p>
       </a>
       <a class="carousel-item" href="#two!"
-        ><h4 class="teal-text">Frontend</h4>
-        <p class="teal white-text">
+        ><h4 class="teal-text darken-4">Frontend</h4>
+        <p class="teal darken-4 white-text">
           HTML5, CSS, SASS, Bootstrap, Materialize, Foundation, Javascript,
           jquery, React, ES6, React Native, React Hooks, Expo, Ionic
         </p></a
       >
       <a class="carousel-item" href="#three!"
-        ><h4 class="teal-text">Dev tools</h4>
-        <p class="teal white-text">
+        ><h4 class="teal-text darken-4">Dev tools</h4>
+        <p class="teal darken-4 white-text">
           MacOS, Centos, Bash, Zsh, Scripting .sh, Terminal, VI, Docker, Git,
           Gitlab, VS Code,
         </p></a
       >
       <a class="carousel-item" href="#four!"
-        ><h4 class="teal-text">Dev tools</h4>
-        <p class="teal white-text">
+        ><h4 class="teal-text darken-4">Dev tools</h4>
+        <p class="teal darken-4 white-text">
           Jira, Confluence, Trello, Git Boards, Slack, Teams, Bitrix24, 1C,
           Figma,
         </p></a
       >
       <a class="carousel-item" href="#five!"
-        ><h4 class="teal-text">DevOPS, Networking</h4>
-        <p class="teal white-text">
+        ><h4 class="teal-text darken-4">DevOPS, Networking</h4>
+        <p class="teal darken-4 white-text">
           Gitlab CI/CD, Vagrant, Kubernetes, Microsoft AD, TCP/IP, Ports,
           Sockets, DNS, DHCP, ARP, Ethernet,
         </p></a
       >
-    </div>
+      </div>
 
+      <!-- Work experience section -->
+      <ul class="collapsible popout">
+        <li class="active">
+          <div class="collapsible-header">
+            <div class="valign-wrapper">
+              <img class="responsive-img icon-image"  src="https://static.tildacdn.com/tild3130-3963-4663-b732-623735376332/favicon.ico"></img>
+            </div>
+            <h6>Openspend Inc., Tech PM (remote)</h6>
+            <span class="new badge" data-badge-caption="2020-2021"></span>
+          </div>
+          <div class="collapsible-body">
+            <a href="https://bookedby.com">Bookedby.com</a>
+            <span>Интернет компания, разработчик ПО. Highload web-приложение + брендированные мобильные версии. Около 20 тыс. клиентов, 50+ разработчиков.</span>
+            <p><strong>Позиция:</strong> Технический руководитель проектов (удаленно). Подчинение: SEO, CTO (косвенно)</p>
+            <p><strong>Обязанности:</strong> Дистанционное управление распределенными удаленными командами разрабоки (10+ человек: дизайнеры, фронты, бэки, qa, devops). Фасилитация SCRUM процедур: дейли митинги, груминги, роад-мэпы, работа с бэклогом, эстимейшены, участие в тестировании, мониторинг выкатки через ci-cd пайпы, пост-продакшен контроль, презентации новых скоупов акционерам.</p>
+            <p><strong>Достижения:</strong> Внедрена система подарочных карт, система выбора исполнителей,   новые виды платежей. Сделан апгрейд бэкенда, улучшена стабильность. Стали работать по чистому scrum - начиная с роуд-мэпов, заканчивая ретро по каждому спринту. Перешли на новую систему тестирования. Выпустили несколько брендированных мобильных приложений.</p>
+            <p><strong>Стек, тулзы:</strong> AWS cloud, .net core, c#, react.js, js, Kendo. Gitlab, Jira, Confluence, Teams</p>
+          </div>
+        </li>
+        <li>
+          <div class="collapsible-header">
+            <div class="valign-wrapper">
+              <img class="responsive-img icon-image"  src="https://www.rcntec.com/favicon.ico"></img>
+            </div>
+            <h6>ООО "Арсиэнтек", Руководитель проектов</h6>
+            <span class="new badge" data-badge-caption="2015-2020"></span>
+          </div>
+          <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+        </li>
+        <li>
+          <div class="collapsible-header">
+            <div class="valign-wrapper">
+              <img class="responsive-img icon-image"  src="https://www.daf.ru/assets/v-504911268000000000/favicons/daf/favicon.ico"></img>
+            </div>
+            <h6>DAF Trucks RUS, Руководитель IT</h6>
+            <span class="new badge" data-badge-caption="2011-2015"></span>
+          </div>
+          <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+        </li>
+      </ul>
+            
+     
+
+
+
+
+
+
+
+
+
+
+    <!-- Contact floating button section -->
     <div class="fixed-action-btn">
       <a class="btn-floating btn-large red">
         <i class="large material-icons">mode_edit</i>
@@ -110,72 +176,7 @@
       </ul>
     </div>
 
-    <div class="container">
-      <div class="section">
-        <!--   Icon Section   -->
-        <div class="row">
-          <div class="col s12 m4">
-            <div class="icon-block">
-              <h2 class="center" style="color: #333">
-                <i class="mdi-av-new-releases"></i>
-              </h2>
-              <h5 class="center">Feature one</h5>
-
-              <p class="light">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim
-              </p>
-            </div>
-          </div>
-
-          <div class="col s12 m4">
-            <div class="icon-block">
-              <h2 class="center" style="color: #333">
-                <i class="mdi-hardware-cast"></i>
-              </h2>
-              <h5 class="center">Feature two</h5>
-
-              <p class="light">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim
-              </p>
-            </div>
-          </div>
-
-          <div class="col s12 m4">
-            <div class="icon-block">
-              <h2 class="center" style="color: #333">
-                <i class="mdi-hardware-keyboard-alt"></i>
-              </h2>
-              <h5 class="center">Feature three</h5>
-              <p class="light">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="parallax-container valign-wrapper">
-      <div class="section no-pad-bot">
-        <div class="container">
-          <div class="row center">
-            <h5 class="header col s12" style="color: #333">
-              Vertically centered text
-            </h5>
-          </div>
-        </div>
-      </div>
-      <div class="parallax">
-        <img src="images/1412019519aax7e.jpg" alt="img" />
-      </div>
-    </div>
-
+    <!-- Footer -->
     <footer class="page-footer purple lighten-1">
       <div class="footer-copyright">
         <div class="container">

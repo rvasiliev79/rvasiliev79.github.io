@@ -1,6 +1,5 @@
 //  This JQuery functions inits specified classes
 $(document).ready(function () {
-  $(".parallax").parallax();
   $(".materialboxed").materialbox();
   $(".fixed-action-btn").floatingActionButton();
   $(".carousel").carousel();
@@ -8,19 +7,5 @@ $(document).ready(function () {
     fullWidth: true,
     indicators: true,
   });
+  $(".collapsible").collapsible();
 });
-
-/*
-$(".head-link").click(function (e) {
-  e.preventDefault();
-
-  var goto = $(this).attr("href");
-
-  $("html, body").animate(
-    {
-      scrollTop: $(goto).offset().top,
-    },
-    800
-  );
-});
-*/

@@ -1,36 +1,28 @@
-p {
-  line-height: 2rem;
-}
-
 .carousel {
   height: 300px;
   perspective: 300px;
 }
 
-.button-collapse {
-  color: #ee6e73;
+.card-panel {
+  padding: 5px;
 }
 
-.parallax-container .section {
-  width: 95%;
+.icon-image {
+  max-height: 3rem;
 }
 
-.icon-block {
-  padding: 0 15px;
+h6 {
+  margin-left: 10px;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
+.blockquote {
+  font-size: smaller;
 }
 
 footer.page-footer {
   margin: 0;
-}
-
-.parallax img {
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.purple.lighten-1 {
-  background-color: #cc0066 !important;
-}
-.teal-text.text-lighten-2 {
-  color: #cc0066 !important;
 }
