@@ -1,6 +1,5 @@
 .carousel {
   height: 300px;
-  perspective: 300px;
 }
 
 .card-panel {
@@ -8,7 +7,7 @@
 }
 
 .icon-image {
-  max-height: 3rem;
+  width: 20px;
 }
 
 h6 {
@@ -21,8 +20,10 @@ h6 {
 
 .blockquote {
   font-size: smaller;
+  margin: 0 0;
 }
 
-footer.page-footer {
-  margin: 0;
+.teal.darken-4 {
+  padding: 10px;
+  color: white;
 }
