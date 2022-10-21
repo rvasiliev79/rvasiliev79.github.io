@@ -9,3 +9,14 @@ $(document).ready(function () {
   });
   $(".collapsible").collapsible();
 });
+
+function CopyToClipboard() {
+  navigator.clipboard.writeText("https://rvasiliev79.github.io").then(
+    () => {
+      alert("Ссылка на этот сайт в буфере обмена");
+    },
+    () => {
+      alert("Не разрешен доступ к буферу обмена");
+    }
+  );
+}
