@@ -29,7 +29,7 @@
 
       <!-- Header section with card -->
       <div class="row">
-        <h3 class="header center">Роман Васильев</h3>
+        <h3 data-localize="name" class="header center">NAME</h3>
         <div class="col s12 m6">
           <div class="card-panel grey lighten-5 z-depth-1">
             <div class="row valign-wrapper">
@@ -42,19 +42,17 @@
               </div>
               <div class="col s7">
                 <span class="black-text">
-                  <p>Senior IT PM/PO</p>
-                  <p>Solution architect</p>
-                  <p>Software dev manager</p>
-                  <p>Web Frontend dev ;)</p>
+                  <p data-localize="prof.1">1</p>
+                  <p data-localize="prof.2">2</p>
+                  <p data-localize="prof.3">3</p>
+                  <p data-localize="prof.4">4</p>
                 </span>
               </div>
             </div>
           </div>
         </div>
         <div class="col s12 m6">
-          <blockquote class="blockquote ">
-            Опытный руководитель в ИТ. Более 20 лет в индустрии. Прошел путь от рядового программиста и сис.админа до ИТ директора. Сейчас интересна разработка web и мобильных приложений. Реальный опыт управления распределенными командами 10+ разработчиков, лидерские качетсва, широкий кругозор в ИТ, хорошая обучаемость, разговорный английский язык, свои небольшие проекты на Github - Materialize, React Native.
-          </blockquote>
+          <blockquote data-localize="summary" class="blockquote ">summary</blockquote>
         </div>
       </div>
 
@@ -92,7 +90,7 @@
 
       <!-- Work experience section -->
 
-      <h4 class="header center">Опыт работы</h4>
+      <h4 data-localize="exp-header" class="header center">Exp</h4>
       <ul class="collapsible popout">
         <li class="active">
           <div class="collapsible-header">
@@ -203,9 +201,9 @@
             <span class="new badge" data-badge-caption="2000-2004"></span>
           </div>
           <div class="collapsible-body">
-            <span>Начало карьеры</span>
-            <p><strong>Позиция:</strong> Программист 1С, сис.админ</p>
-            <p> Я удивлен, что вы открыли даже эту вкладку ) если вам нужна прям полная версия моего опыта - напишите мне.</p>
+            <span data-localize="job1.about"></span>
+            <p data-localize="job1.par1"></p>
+            <p data-localize="job1.par2"></p>
           </div>
         </li>
       </ul>
@@ -222,7 +220,7 @@
           >
         </li>
         <li>
-          <a href="mailto:rvasiliev79@gmail.com&subject=по вашему сайту-резюме" class="btn-floating green"
+          <a href="mailto:rvasiliev79@gmail.com&subject=сайт-резюме" class="btn-floating green"
             ><i class="material-icons">email</i></a
           >
         </li>
@@ -234,15 +232,21 @@
       </ul>
     </div>
 
+    <!-- Language switch button section -->
+    <div class="lang-button fixed-action-btn">
+      <a onclick="SwitchLang()" data-localize="lang" id="langbtn" class="btn-floating btn-small waves-effect waves-light red">NA</a>
+    </div>
+
     <!-- Footer -->
     <footer class="page-footer teal darken-4 ">
-      <div class="footer-copyright">
-        <p>©2022 Don't hesitate to contact me -></p>
+      <div data-localize="footer" class="footer-copyright">
+        <p>footer</p>
       </div>
     </footer>
 
     <!--  Scripts-->
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-localize/0.1.0/jquery.localize.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script src="js/scripts.js"></script>
   </body>

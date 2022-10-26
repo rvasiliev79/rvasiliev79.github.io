@@ -8,6 +8,7 @@ $(document).ready(function () {
     indicators: true,
   });
   $(".collapsible").collapsible();
+  $("[data-localize]").localize("localization/content");
 });
 
 function CopyToClipboard() {
@@ -19,4 +20,9 @@ function CopyToClipboard() {
       alert("Не разрешен доступ к буферу обмена");
     }
   );
+}
+
+function SwitchLang() {
+  tolang = document.getElementById("langbtn").text;
+  $("[data-localize]").localize("localization/content", { language: tolang });
 }

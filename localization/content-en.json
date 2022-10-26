@@ -1,0 +1,22 @@
+{
+  "lang": "RU",
+  "name": "Roman Vasilev",
+  "prof": {
+    "1": "Senior IT PM/PO",
+    "2": "Solution architect",
+    "3": "Software dev manager",
+    "4": "Web Frontend dev ;)"
+  },
+  "summary": "Skilled IT leader with 20+ years background in IT. Followed my career from a regular sys.admin / developer to the Director of IT.  Currently interested in web- and mobile- apps development. Experienced in remote international 10+ dev teams management, strong leadership, easy-learner, goal oriented, eager for modern IT technologies and fluent English. Code Hans-on approach - have my own Github small projects - Materialize, React Native",
+  "exp-header": "Job experience",
+
+  "job1": {
+    "header": "",
+    "about": "Career started here",
+    "par1": "<strong>Job:</strong>1С-developer, sysadmin",
+    "par2": "I'm surprised you opened this section ) If you really curious too see my full detailed experience in the past - drop me a message",
+    "par3": ""
+  },
+
+  "footer": "©2022 Don't hesitate to contact me ->"
+}
