@@ -7,8 +7,58 @@
     "3": "Software dev manager",
     "4": "Web Frontend dev ;)"
   },
-  "summary": "Skilled IT leader with 20+ years background in IT. Followed my career from a regular sys.admin / developer to the Director of IT.  Currently interested in web- and mobile- apps development. Experienced in remote international 10+ dev teams management, strong leadership, easy-learner, goal oriented, eager for modern IT technologies and fluent English. Code Hans-on approach - have my own Github small projects - Materialize, React Native",
+  "summary": "Skilled IT leader with 20+ years background in IT. Followed my career from a regular sys.admin / developer to the Director of IT.  Currently interested in web- and mobile- apps development. Experienced in remote international 10+ dev teams management, strong leadership, easy-learner, goal oriented, eager for modern IT technologies and fluent English. Code Hans-on approach - have my own <a href='https://github.com/rvasiliev79'>Github small projects</a> - Materialize, React Native",
   "exp-header": "Job experience",
+
+  "job7": {
+    "header": "Openspend Inc., Technical PM",
+    "about": "Openspend - USA Software company. Bookedby: highload web-app + branded mobile apps. About 20K users, 50+ dev.team",
+    "par1": "<strong>Job:</strong> Technical Project Manager (remote). Report to: CEO, CTO. 10+ devs in my international remote scrum-teams",
+    "par2": "<strong>Goals:</strong> One of key customer's demo: <a href='https://zona.bookedby.com'>zona.bookedby.com</a>. Implemented Giftcards, impoved providers selection and reviews, added new payment types. Backend .net core updated and improved stability. Pure Scrum dev.process - daily standups, sprint planning, grooming, retros, one-ones, backlog management, release control, bi-weekly updates, demos to the owner/mgmt. Full cycle sw/dev - plan-build-test-deploy-monitor. 10+ branded mobile apps released: <a href='https://play.google.com/store/apps/details?id=com.bookedby.nbb.themancavehaircuts'>ManCave haircuts</a>, <a href='https://play.google.com/store/apps/details?id=com.bookedby.nbb.sharkeys'>Sharkey's Cuts</a>, <a href='https://play.google.com/store/apps/details?id=com.bookedby.nbb.acapello'>Acapello Salons</a>",
+    "par3": "<strong>Duties:</strong> Remote software developments teams managements (10+ people: designers, frontenders, backenders, qas, devops). Facilitation of SCRUM procedures. Tech tweaks in dev. environments, release control",
+    "par4": "<strong>Stack, tools:</strong> AWS cloud, Kubernetes, Grafana, .net core, c#, react.js, js, Kendo. Gitlab, Jira, Confluence, Teams"
+  },
+
+  "job6": {
+    "header": "RCNTEC, R&D Project manager",
+    "about": "Lukoil-inform subsidiary. Web and mobile software dev: 2FA web-service, mobile apps, smart devices. 80+ devs",
+    "par1": "<strong>Job:</strong> R&D Project manager (remote). Report to: VP R&D. 10+ remote developers in my team.",
+    "par2": "<strong>Goals:</strong> Managed R&D team in building <a href='https://auth.as'>AUTH.AS</a> - a cloud based service for 2-factor authentication. Full stack development, highload, multinode, json api, radius-server. Developed several plugins for different OS and services. Built 2 related mobile apps. Included AUTH.AS into the Russian Government Local Software registry. Made dozens of inhouse product trainings, pre-sale presentations. Composed 20+ tech.documents. Best R&D employee of the year 2016 (CEO award). Designed and built 5+ landings for other company products: <a href='https://rpcm.pro'>rpcm.pro</a>, <a href='https://rpcm.cloud'>rpcm.cloud</a>, <a href='https://complaud.com'>complaud.com</a>, <a href='https://resilientcloudstorage.com'>resilientcloudstorage.com</a>, <a href='https://polibyte.ru'>polibyte.ru</a>. Designed and developed 2 mobile apps (iOS, android: <a href='https://play.google.com/store/apps/details?id=com.rcntec.android.auth_as.app'>auth.as: token</a>, <a href='https://play.google.com/store/apps/details?id=com.rcntec.patriotpark'>Patriot park (beta)</a>",
+    "par3": "<strong>Duties:</strong> Make sure IT projects delivered in time with the required functionality. Build short and middle term development schedules. Agile environment. Establish and support healthy communication within a team, run weekly meetings, grooming, demos and other Scrum procedures. Deploy local dev.environment and test product when needed. Compose docs and manuals and run presentations for internal and external customers. Support company's IT products on expert user level",
+    "par4": "<strong>Stack, tools:</strong> proxmox, centos, nginx, elastic, cassandra, ruby, gitlab, ansible, bootstrap, angular, js, Bitrix24, 1C, Trello, Slack"
+  },
+
+  "job5": {
+    "header": "DAF Trucks Rus, IT manager",
+    "about": "DAF Trucks NV Russian Subsidiary. Trucks, parts production and sales. 20+ people",
+    "par1": "<strong>Job:</strong> IT manager of the subsidiary. Report to: CEO. Up to 4 outsourced subordinates",
+    "par2": "<strong>Goals:</strong>  Full cycle MS Dynamics Nav implementation. Modules: Parts, Sales, Finance, Trucks, Logistics. Built Interfaces with other systems. Business and system analytics, writing tech. docs, tight cooperation with developers for consulting, system testing and presentation for end-users. Leading role in business applications up-and-running (1C, banking, e-taxing etc...). Set up Microsoft AD snap-ins, SCCM, Forefront, SQL, Exchange, Lync, Dynamics). ITIL-based working process, SOX compliant change management. Set up Intranet website, supported dealers with in-house web-apps. Self made office IT infra part (cabling, servers, wifi, workplaces, MFUs), working with Cisco, Dell Proliant, Blackberry (own BES server) server equipment",
+    "par3": "<strong>Duties:</strong> Perform daily IT duties of all kind, act inline with corporate IT P&P, weekly reporting to head office, budgeting, manage contractors and vendor for IT, manage outsourcers, review IT agreements, licences. International IT trainings in Netherlands, Germany at MS corp. software products"
+  },
+
+  "job4": {
+    "header": "Avianova, IT director",
+    "about": "First Russian aviation lowcoster. 300+ people",
+    "par1": "<strong>Job:</strong> IT Director. Report to: CCO. 4 subordinates (2 outsourcers)",
+    "par2": "<strong>Goals:</strong> Full IT Infrastructure audit, LAN recreated from poor condition, global inventory of IT assets. Set up dual-provider internet channel to get the best fail-safe option. Made complex reconfig of the Exchange server, significant AD group policy improvements. Server farm maintained, fixed cluster failure issues, set up a remote backup system of all critical services. Aviation software troubleshooting, PNL ADL PFS messaging system management, card payments systems support (eurocommerce gateway), full support of Navitaire, Aviabit. Due to high technical involvement, completed a lots of application-level projects, like internal presentation server, PABX set-up and management, cluster services management, wi-fi zone, cisco external VPN connections, blackberry project, internal e-documents turnover system",
+    "par3": "<strong>Duties:</strong> Strategic and operational management, IT policies design and implementation, short and long term activities planning and reporting, IT budgeting, working with vendors, suppliers, legal agreements. Reporter on a weekly top-management team meetings. Hardware, infrastructure, networking management, with high techical involvement. Licencing and security policy definition. IT software project lead, coordinator with foreign software suppliers, testing and implementation."
+  },
+
+  "job3": {
+    "header": "LG Electronics RUS, 1C team leader",
+    "about": "Russian branch of the biggest world consumer electronics giant. 2500+ people",
+    "par1": "<strong>Position:</strong> Software (1c) team leader. Report to: CIO. 3 subordinates",
+    "par2": "<strong>Goals:</strong> Implemented a helpdesk system (MS Sharepoint), Merged 2 1C-DBs without operations interruption, developed the Data export tool from Oracle to 1C, designed an English versions of custom 1C reports, configured the 1c-SQL fail-safe cluster and optimised its performance",
+    "par3": "<strong>Duties:</strong> Managing 1C ERP software (UPP 8.1). Project management and tracking, technical advice. Full lifecycle project support, start from business analysis to end-user testing and KPI set. Deadlines tracking and QA testing. Budgeting and vendors relations development. Tight cooperation with outsourcers"
+  },
+
+  "job2": {
+    "header": "Nikken RUS, Head of IT",
+    "about": "World-class international MLM company, DSA member, presented in 20+ countries",
+    "par1": "<strong>Job:</strong> Head of IT in Rus.sub. Report to: CEO. 2 people in direct supervision",
+    "par2": "<strong>Goals:</strong> Implemented the corporate MLM software (AcuCobol, Datatrax) from scratch, including translations, adjustment for Russian legislation, local documents and reports, re-created distributor's bonus-system, system and business analysis of purchases, bonus calculations, warehouse management. Self-made backend to query internal DB (PHP, mySQL), DB with Frontend for advanced reporting. Whole office HW infra part created from scratch: LAN, WAN, PABX, servers, printers, workstations, SCS. IT P&P, security policy, licence management. IT recruitment, budgeting, strategy planning. Built the backup power supply solution for the local server-room allowing to work about 24h off-the-grid. Set up the fire-alarm system, the office security and CCTV surveillance",
+    "par3": "<strong>Duties:</strong> Started in the company from its creation. IT department management with hands-on approach. IT set up of newly opened Russian branches (10+). SW and HW projects lead. Budgeting, hiring, assessment, change management. All the things you expect from an IT Director."
+  },
 
   "job1": {
     "header": "",
