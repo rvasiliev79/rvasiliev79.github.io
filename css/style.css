@@ -30,4 +30,5 @@ h6 {
 
 .lang-button {
   top: 1%;
+  height: fit-content;
 }

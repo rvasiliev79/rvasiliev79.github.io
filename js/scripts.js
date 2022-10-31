@@ -26,3 +26,11 @@ function SwitchLang() {
   tolang = document.getElementById("langbtn").text;
   $("[data-localize]").localize("localization/content", { language: tolang });
 }
+
+//Google Analytics part
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+  dataLayer.push(arguments);
+}
+gtag("js", new Date());
+gtag("config", "G-VD8302NJCM");
