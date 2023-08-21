@@ -2,13 +2,22 @@
   "lang": "RU",
   "name": "Roman Vasilev",
   "prof": {
-    "1": "Senior IT PM/PO",
-    "2": "Solution architect",
+    "1": "Senior IT project manager",
+    "2": "IT Solution architect",
     "3": "Software dev manager",
-    "4": "Web Frontend dev ;)"
+    "4": "Web Frontend dev noob;)"
   },
   "summary": "Skilled IT leader with 20+ years background in IT. Followed my career from a regular sys.admin / developer to the Director of IT.  Currently interested in web- and mobile- apps development. Experienced in remote international 10+ dev teams management, strong leadership, easy-learner, goal oriented, eager for modern IT technologies and fluent English. Code Hans-on approach - have my own <a href='https://github.com/rvasiliev79'>Github small projects</a> - Materialize, React Native",
   "exp-header": "Job experience",
+
+  "job8": {
+    "header": "Netris, Senior Technical Project manager",
+    "about": "Netris - one of Rostelecom Inc. subsidiary, works for state authority. ENPV / SIOV: complex CCTV solution for federal-level surveillance and analytics. 100+ dev.team",
+    "par1": "<strong>Job:</strong> Senior Technical Project Manager (remote). Report to: CTO. 10+ devs in a remote team",
+    "par2": "<strong>Goals:</strong> TBD afterwards</a>",
+    "par3": "<strong>Duties:</strong> Remote software developments teams managements (10+ people: designers, frontenders, backenders, qas, engineers). Full cycle of webapp development from idea to customer support",
+    "par4": "<strong>Stack, tools:</strong> Java, Docker, React, Jenkins. Gitlab, Redmine, Wiki"
+  },
 
   "job7": {
     "header": "Openspend Inc., Technical PM",
@@ -68,5 +77,5 @@
     "par3": ""
   },
 
-  "footer": "©2022 Don't hesitate to contact me ->"
+  "footer": "©2022+ Don't hesitate to contact me ->"
 }
