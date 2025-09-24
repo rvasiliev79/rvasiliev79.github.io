@@ -4,23 +4,23 @@
   "prof": {
     "1": "Senior IT project manager",
     "2": "IT Solution architect",
-    "3": "Software dev manager",
-    "4": "Web Frontend dev noob;)"
+    "3": "Software development manager",
+    "4": "Web frontend dev. a little"
   },
-  "summary": "Skilled IT leader with 20+ years background in IT. Followed my career from a regular sys.admin / developer to the Director of IT.  Currently interested in web- and mobile- apps development. Experienced in remote international 10+ dev teams management, strong leadership, easy-learner, goal oriented, eager for modern IT technologies and fluent English. Code Hans-on approach - have my own <a href='https://github.com/rvasiliev79'>Github small projects</a> - Materialize, React Native",
+  "summary": "Skilled IT leader with 20+ years background in IT. Mastered my career from a regular sys.admin / developer to the Director of IT. Recently experienced in web and mobile high load apps development. Experienced in remote international 10+ dev teams management, strong leadership, easy-learner, goal oriented, eager for modern IT technologies and fluent English. Code Hans-on approach - have my own <a href='https://github.com/rvasiliev79'>Github small projects</a> - Materialize, React Native. Web3 jobs are preferred. Digital nomad, only remote jobs in GMT0..+5 zone",
   "exp-header": "Job experience",
 
   "job8": {
-    "header": "Netris, Senior Technical Project manager",
-    "about": "Netris - one of Rostelecom Inc. subsidiary, works for state authority. ENPV / SIOV: complex CCTV solution for federal-level surveillance and analytics. 100+ dev.team",
-    "par1": "<strong>Job:</strong> Senior Technical Project Manager (remote). Report to: CTO. 10+ devs in a remote team",
-    "par2": "<strong>Goals:</strong> TBD afterwards</a>",
-    "par3": "<strong>Duties:</strong> Remote software developments teams managements (10+ people: designers, frontenders, backenders, qas, engineers). Full cycle of webapp development from idea to customer support",
-    "par4": "<strong>Stack, tools:</strong> Java, Docker, React, Jenkins. Gitlab, Redmine, Wiki"
+    "header": "Netris, Senior Technical Manager (remote)",
+    "about": "Netris - one of Rostelecom Inc. subsidiary. Customers - state authority. Products: ENPV - complex CCTV solution for federal-level CCTV and video analytics. Microservice high load architecture. Staff: 100+ people in cross functional teams",
+    "par1": "<strong>Report to:</strong> CTO. 10+ devs in a remote team",
+    "par2": "<strong>Goals:</strong> ENPV - State level CCTV system installated in several regions (100+ cities, 100 000+ cameras). Federal level CCTV system design and implementation. Full development and rollout cycle, support, update and improvements with a close customer connection. Seamless updates process. Internal (wiki) and external documentation, pre-release testing. Deep dive into tech process, infrastructure and hardware planning on a customer site, ingeneering involvement during installation phase, network routing and VPN setup. Presale activities and presentation to the customer. Innovative solution on a CDN-type broadcast video server. New version of metrics service acrhitectured and tested. 4 video analytics providers connected via API to react on certain events (face and cars recognition, geomerty triggers, emergencies). API integration to external systems. Passed PMBOK7 PM framework courses",
+    "par3": "<strong>Duties:</strong> Remote software developments teams managements (10+ people: designers, frontenders, backenders, qas, engineers) using Agile Kanban. Full cycle of webapp development from idea to customer support. Regular customer meetings and demos. Brainstorming engineering sessions.",
+    "par4": "<strong>Stack, tools:</strong> OS: Ubuntu/Docker; Backend: Java; Front: JS, Node JS, React; Stack: Nginx, MariaDB, MongoDB, ELK, Rabbit, Kafka, Redis, Ansible, Jenkins, CI/CD pipes. Terraform, Zabbix, Prometheus, Gitlab, Redmine, Swagger, Wiki"
   },
 
   "job7": {
-    "header": "Openspend Inc., Technical PM",
+    "header": "Openspend Inc., Technical PM (remote)",
     "about": "Openspend - USA Software company. Bookedby: highload web-app + branded mobile apps. About 20K users, 50+ dev.team",
     "par1": "<strong>Job:</strong> Technical Project Manager (remote). Report to: CEO, CTO. 10+ devs in my international remote scrum-teams",
     "par2": "<strong>Goals:</strong> One of key customer's demo: <a href='https://zona.bookedby.com'>zona.bookedby.com</a>. Implemented Giftcards, impoved providers selection and reviews, added new payment types. Backend .net core updated and improved stability. Pure Scrum dev.process - daily standups, sprint planning, grooming, retros, one-ones, backlog management, release control, bi-weekly updates, demos to the owner/mgmt. Full cycle sw/dev - plan-build-test-deploy-monitor. 10+ branded mobile apps released: <a href='https://play.google.com/store/apps/details?id=com.bookedby.nbb.themancavehaircuts'>ManCave haircuts</a>, <a href='https://play.google.com/store/apps/details?id=com.bookedby.nbb.sharkeys'>Sharkey's Cuts</a>, <a href='https://play.google.com/store/apps/details?id=com.bookedby.nbb.acapello'>Acapello Salons</a>",
@@ -29,7 +29,7 @@
   },
 
   "job6": {
-    "header": "RCNTEC, R&D Project manager",
+    "header": "RCNTEC, R&D Project manager (remote)",
     "about": "Lukoil-inform subsidiary. Web and mobile software dev: 2FA web-service, mobile apps, smart devices. 80+ devs",
     "par1": "<strong>Job:</strong> R&D Project manager (remote). Report to: VP R&D. 10+ remote developers in my team.",
     "par2": "<strong>Goals:</strong> Managed R&D team in building <a href='https://auth.as'>AUTH.AS</a> - a cloud based service for 2-factor authentication. Full stack development, highload, multinode, json api, radius-server. Developed several plugins for different OS and services. Built 2 related mobile apps. Included AUTH.AS into the Russian Government Local Software registry. Made dozens of inhouse product trainings, pre-sale presentations. Composed 20+ tech.documents. Best R&D employee of the year 2016 (CEO award). Designed and built 5+ landings for other company products: <a href='https://rpcm.pro'>rpcm.pro</a>, <a href='https://rpcm.cloud'>rpcm.cloud</a>, <a href='https://complaud.com'>complaud.com</a>, <a href='https://resilientcloudstorage.com'>resilientcloudstorage.com</a>, <a href='https://polibyte.ru'>polibyte.ru</a>. Designed and developed 2 mobile apps (iOS, android: <a href='https://play.google.com/store/apps/details?id=com.rcntec.android.auth_as.app'>auth.as: token</a>, <a href='https://play.google.com/store/apps/details?id=com.rcntec.patriotpark'>Patriot park (beta)</a>",
@@ -77,5 +77,5 @@
     "par3": ""
   },
 
-  "footer": "©2022+ Don't hesitate to contact me ->"
+  "footer": "©2022+ Click that pencil button to contact me ->"
 }
