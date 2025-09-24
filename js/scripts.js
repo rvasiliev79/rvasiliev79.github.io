@@ -8,7 +8,7 @@ $(document).ready(function () {
     indicators: true,
   });
   $(".collapsible").collapsible();
-  $("[data-localize]").localize("localization/content");
+  $("[data-localize]").localize("localization/content", { language: "en" });
 });
 
 function CopyToClipboard() {
